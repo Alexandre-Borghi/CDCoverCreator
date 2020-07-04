@@ -1,0 +1,15 @@
+[CDC signature:3 chars]
+[bg_img_width:int][bg_img_height:int][bg_img_data:char]
+[bg_tint:GdkRGBA (4 doubles)]
+
+[title_text_length:int][title_text:char]
+[title_text_color:GdkRGBA]
+[title_text_font_string_length:int][title_text_font:char]
+[title_bg_color:GdkRGBA]
+
+[tracks_count:uint]
+[tracks_texts[i]_length:int][tracks_texts[i]_data:char]
+[tracks_texts_color:GdkRGBA]
+[tracks_texts_font_string_length:int][tracks_texts_font:char]
+[tracks_bg_color:GdkRGBA]
+[tracks_spacing:int]
