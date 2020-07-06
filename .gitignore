@@ -1,4 +1,4 @@
 .vscode
 build
-glade
 spike
+bin/CDCoverCreator
